@@ -8,9 +8,9 @@ import (
 	"testing"
 	"unicode/utf8"
 
-	"koifer"
+	"github.com/owulveryck/koifer"
 
-	"koifer/db/memory"
+	"github.com/owulveryck/koifer/db/memory"
 )
 
 func TestMemoryDB(t *testing.T) {

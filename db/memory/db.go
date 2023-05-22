@@ -1,7 +1,7 @@
 package memory
 
 import (
-	"koifer"
+	"github.com/owulveryck/koifer"
 )
 
 type DB struct {
